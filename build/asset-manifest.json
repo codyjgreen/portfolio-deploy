@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e4a1a53.chunk.css",
+    "main.js": "/static/js/main.18f8ad13.chunk.js",
+    "main.js.map": "/static/js/main.18f8ad13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e688a772.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e688a772.js.map",
+    "static/js/2.744569b1.chunk.js": "/static/js/2.744569b1.chunk.js",
+    "static/js/2.744569b1.chunk.js.map": "/static/js/2.744569b1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5e4a1a53.chunk.css.map": "/static/css/main.5e4a1a53.chunk.css.map",
+    "static/js/2.744569b1.chunk.js.LICENSE.txt": "/static/js/2.744569b1.chunk.js.LICENSE.txt",
+    "static/media/F&S.c3cab178.png": "/static/media/F&S.c3cab178.png",
+    "static/media/FacePlant.12254dfe.png": "/static/media/FacePlant.12254dfe.png",
+    "static/media/PetBattle.fe8b5d7d.png": "/static/media/PetBattle.fe8b5d7d.png",
+    "static/media/Rigamarole.css": "/static/media/bird-nonsense-mcgill-library.3d9accaa.jpg",
+    "static/media/About.css": "/static/media/crystal-carole-smile.7d0da907.jpg",
+    "static/media/helloiminee.c8d92e49.mp3": "/static/media/helloiminee.c8d92e49.mp3",
+    "static/media/me4.94c0b905.png": "/static/media/me4.94c0b905.png",
+    "static/media/Egg.css": "/static/media/orange-fly-d.fac64260.jpg",
+    "static/media/Secret.css": "/static/media/pyramid.08e25c81.jpg",
+    "static/media/Main.css": "/static/media/vines-runze-shi.ef81acf1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e688a772.js",
+    "static/js/2.744569b1.chunk.js",
+    "static/css/main.5e4a1a53.chunk.css",
+    "static/js/main.18f8ad13.chunk.js"
+  ]
+}
